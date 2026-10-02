@@ -3,4 +3,10 @@ An interactive Arduino-based proximity distance alarm featuring real-time LCD te
 
 video:
 
-https://github.com/user-attachments/assets/4ba75910-72b1-4b4c-b0c3-74f235014fff
+https://github.com/user-attachments/assets/b67843a6-719f-48dd-b7f1-13c34a6f79a1
+
+
+
+
+
+
